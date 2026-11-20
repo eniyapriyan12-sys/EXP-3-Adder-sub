@@ -4,11 +4,11 @@
 To design and verify basic one-bit arithmetic circuits using Verilog HDL.
 ### Theory / Synopsis
 A Half Adder adds two single-bit binary numbers, A and B, and produces a Sum and a Carry output. A Half Subtractor subtracts one single-bit binary number B from another A, producing a Difference and a Borrow output. Both circuits are purely combinational and form the basic building blocks of larger arithmetic units such as Full Adders and Full Subtractors.
-Boolean Functions
-Half Adder:
-•	Sum = A ⊕ B
+### Boolean Functions
+# Half Adder:
+    Sum = A ⊕ B
 •	Carry = A . B
-Half Subtractor:
+# Half Subtractor:
 •	Difference = A ⊕ B
 •	Borrow = A' . B
 
